@@ -1,5 +1,6 @@
 Maxim_Kudryavtsev / 10
 Jeysen_Prado / 10
+Tellarion_Foldring / 10
 Gosha_Fantom / 10
 Salvatore_Giordano / 10
 Tobey_Marshall / 10
@@ -11,6 +12,7 @@ Jonny_Wilson / 8
 Kostya_Vlasov / 8
 Berna_Breezy / 5
 Quentin_Qween / 5
+Dwayne_Eagle / 5
 
 Saint-Louis
 Aleksey_Efimenko / 7
@@ -69,3 +71,8 @@ Avgustique_Wizzy / 3
 Polina_Abuzova / 3
 Karisha_Martines / 3
 Kiryushenka_Muravev / 3
+Zetto_Dicrava / 1
+Tony_Newton / 1
+Jesusique_Bright / 1
+Alexandr_Rumyantsev / 1
+Withnobrain_Shooter / 1
