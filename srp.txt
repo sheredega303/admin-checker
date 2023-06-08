@@ -6,7 +6,6 @@ Meow_Alferov / ?
 Don_Elino / ?
 Zadrot_Info / ?
 Jusper_Pizzaro / ?
-Rico_Psihowski / ?
 
 SRP REVOLUTION
 Matthew_Mayers / 7
@@ -16,6 +15,7 @@ Gabriel_Navarrete / 6
 Nathan_Pringles / 5
 Alex_Halloween / 5
 Katerina_Underwood / 5
+Rico_Psihowski / 5
 Steve_Angelo / 5
 Aaron_Jepsen / 5
 Samuel_Atwood / 5
